@@ -1,2 +1,3 @@
  usonote
-currently work on a project not yet released
+a new server im working on
+
