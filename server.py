@@ -22,7 +22,7 @@ if.os.path.dirname(__file__):
   
   
   
-  import sudomemo
+  import gif(flipnote studio)
   
   
   "server now running" ... listen port:8000
