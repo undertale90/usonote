@@ -22,6 +22,7 @@ if.os.path.dirname(__file__):
   
   
   
+  import sudomemo
   
   
   "server now running" ... listen port:8000
